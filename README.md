@@ -1,4 +1,4 @@
-# WhatsApp Registration Bot with Shanghazi AI Assistant 🤖
+# WhatsApp Registration Bot with  🤖
 
 A FastAPI-based WhatsApp bot that automates user registration through conversational AI. The bot collects user information, generates login credentials, and provides a seamless onboarding experience via WhatsApp.
 
