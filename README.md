@@ -120,7 +120,7 @@ ngrok http 8000
 
 ## 💬 Bot Conversation Flow
 
-1. **Greeting**: Bot introduces itself as Shanghazi
+1. **Greeting**: Bot introduces itself as MOLI
 2. **Purpose**: Asks what brings the user
 3. **Name**: Collects user's full name
 4. **Mobile**: Collects mobile number
@@ -130,7 +130,7 @@ ngrok http 8000
 ### Example Conversation
 
 ```
-Bot: Hello! 👋 I'm Shanghazi, your virtual assistant. Welcome to our service!
+Bot: Hello! 👋 I'm MOLI, your virtual assistant. Welcome to our service!
      May I know what brings you here today?
 
 User: I want to register
