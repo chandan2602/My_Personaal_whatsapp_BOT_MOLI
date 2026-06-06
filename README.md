@@ -1,4 +1,4 @@
-# WhatsApp Registration Bot with  🤖
+# WhatsApp Registration Bot with  MOLI🤖
 
 A FastAPI-based WhatsApp bot that automates user registration through conversational AI. The bot collects user information, generates login credentials, and provides a seamless onboarding experience via WhatsApp.
 
